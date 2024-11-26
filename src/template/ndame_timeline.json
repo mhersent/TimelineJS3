@@ -1,0 +1,1179 @@
+{
+    "events": [
+        {
+            "start_date": {
+                "year": "1137"
+            },
+            "end_date": {
+                "year": "1180"
+            },
+            "text": {
+                "headline": "Louis VII",
+                "text": "Règne de Louis VII"
+            },
+            "background": {
+                "color": "#737373"
+            }
+        },
+        {
+            "start_date": {
+                "year": "1160"
+            },
+            "end_date": {
+                "year": "1196"
+            },
+            "text": {
+                "headline": "Maurice de Sully",
+                "text": "Épiscopat de Maurice de Sully"
+            },
+            "background": {
+                "color": "#737373"
+            }
+        },
+        {
+            "start_date": {
+                "year": "1163"
+            },
+            "text": {
+                "headline": "Début de la construction de Notre-Dame",
+                "text": "Pose de la première pierre"
+            },
+            "background": {
+                "color": "#737373"
+            }
+        },
+        {
+            "start_date": {
+                "year": "1180"
+            },
+            "end_date": {
+                "year": "1223"
+            },
+            "text": {
+                "headline": "Philippe Auguste",
+                "text": "Règne de Philippe Auguste"
+            },
+            "background": {
+                "color": "#737373"
+            }
+        },
+        {
+            "start_date": {
+                "year": "1182"
+            },
+            "text": {
+                "headline": "Consécration du choeur",
+                "text": ""
+            },
+            "background": {
+                "color": "#737373"
+            }
+        },
+        {
+            "start_date": {
+                "year": "1190"
+            },
+            "end_date": {
+                "year": "1212"
+            },
+            "text": {
+                "headline": "Travaux de fortification à Paris",
+                "text": "Construction à Paris d'une grande enceinte fortifiée et de la forteresse royale du Louvre"
+            },
+            "background": {
+                "color": "#737373"
+            }
+        },
+        {
+            "start_date": {
+                "year": "1190"
+            },
+            "text": {
+                "headline": "Décès de la reine Isabelle de Hainaut",
+                "text": "Inhumation dans le choeur liturgique de la reine Isabelle de Hainaut, première épouse de Philippe Auguste"
+            },
+            "background": {
+                "color": "#737373"
+            }
+        },
+        {
+            "start_date": {
+                "year": "1200"
+            },
+            "end_date": {
+                "year": "1210"
+            },
+            "text": {
+                "headline": "Début du XIII<sup<sup>e</sup>e</sup> siècle",
+                "text": "Début du XIII<sup>e</<sup>e</sup>up> siècle - Commencement de la façade occidentale"
+            },
+            "background": {
+                "color": "#737373"
+            }
+        },
+        {
+            "start_date": {
+                "year": "1204"
+            },
+            "text": {
+                "headline": "Prise de Constantinople",
+                "text": "Lors de la quatrième croisade, prise de Constantinople par les croisés"
+            },
+            "background": {
+                "color": "#737373"
+            }
+        },
+        {
+            "start_date": {
+                "year": "1215"
+            },
+            "text": {
+                "headline": "Vers 1215",
+                "text": "Charpente de la nef"
+            },
+            "background": {
+                "color": "#737373"
+            }
+        },
+        {
+            "start_date": {
+                "year": "1215"
+            },
+            "text": {
+                "headline": "IV<sup>e</sup> concile du Latran",
+                "text": "IV<sup>e</sup> concile du Latran (Innocent III)"
+            },
+            "background": {
+                "color": "#737373"
+            }
+        },
+        {
+            "start_date": {
+                "year": "1220"
+            },
+            "text": {
+                "headline": "Vers 1220",
+                "text": "Une statue du roi Philippe Auguste prend place dans le sanctuaire au moment où est réalisée la galerie des rois au-dessus des portails de la façade"
+            },
+            "background": {
+                "color": "#737373"
+            }
+        },
+        {
+            "start_date": {
+                "year": "1220"
+            },
+            "end_date": {
+                "year": "1300"
+            },
+            "text": {
+                "headline": "Vers 1220 - début du XIV<sup>e</sup> siècle",
+                "text": "Adjonction de chapelles latérales, d'abord le long de la nef puis du choeur"
+            },
+            "background": {
+                "color": "#737373"
+            }
+        },
+        {
+            "start_date": {
+                "year": "1225"
+            },
+            "text": {
+                "headline": "Vers 1225",
+                "text": "Agrandissement des fenêtres hautes, réfection de la charpente du choeur, transformation des arcs-boutants"
+            },
+            "background": {
+                "color": "#737373"
+            }
+        },
+        {
+            "start_date": {
+                "year": "1226"
+            },
+            "end_date": {
+                "year": "1270"
+            },
+            "text": {
+                "headline": "Saint-Louis",
+                "text": "Règne de Saint-Louis"
+            },
+            "background": {
+                "color": "#737373"
+            }
+        },
+        {
+            "start_date": {
+                "year": "1230"
+            },
+            "end_date": {
+                "year": "1239"
+            },
+            "text": {
+                "headline": "Construction du jubé gothique",
+                "text": "Construction du jubé gothique"
+            },
+            "background": {
+                "color": "#737373"
+            }
+        },
+        {
+            "start_date": {
+                "year": "1239"
+            },
+            "end_date": {
+                "year": "1241"
+            },
+            "text": {
+                "headline": "1239 et 1241",
+                "text": "Achat par le roi de France à Baudoin, empereur de Byzance, des reliques de la Passion du Christ, dont la Couronne d'épines"
+            },
+            "background": {
+                "color": "#737373"
+            }
+        },
+        {
+            "start_date": {
+                "year": "1245"
+            },
+            "text": {
+                "headline": "",
+                "text": "Mise en place de cloches dans la tour nord de la façade, désormais achevée"
+            },
+            "background": {
+                "color": "#737373"
+            }
+        },
+        {
+            "start_date": {
+                "year": "1248"
+            },
+            "text": {
+                "headline": "Consécration",
+                "text": "Consécration de la Saint-Chapelle au palais de la Cité pour abriter les reliques de la Passion"
+            },
+            "background": {
+                "color": "#737373"
+            }
+        },
+        {
+            "start_date": {
+                "year": "1258"
+            },
+            "text": {
+                "headline": "",
+                "text": "Début de la construction de novuelles façades du transept par l'architecte Jean de Chelles"
+            },
+            "background": {
+                "color": "#737373"
+            }
+        },
+        {
+            "start_date": {
+                "year": "1260"
+            },
+            "end_date": {
+                "year": "1269"
+            },
+            "text": {
+                "headline": "Années 1260",
+                "text": "Réfection de la porte rouge sur le flanc nord du choeur et réalisation d'une nouvelle chpasse d'orfèvrerie installée dans le sanctuaire pour abriter le corps de saint Marcel"
+            },
+            "background": {
+                "color": "#737373"
+            }
+        },
+        {
+            "start_date": {
+                "year": "1265"
+            },
+            "text": {
+                "headline": "",
+                "text": "Pierre de Montreuil mentionné comme maître d'oeuvre; c'est-à-dire architecte de la cathédrale"
+            },
+            "background": {
+                "color": "#737373"
+            }
+        },
+        {
+            "start_date": {
+                "year": "1250"
+            },
+            "end_date": {
+                "year": "1299"
+            },
+            "text": {
+                "headline": "Deuxième moitié du XIII<sup>e</sup> siècle",
+                "text": "Construction de la première flèche de la cathédrale"
+            },
+            "background": {
+                "color": "#737373"
+            }
+        },
+        {
+            "start_date": {
+                "year": "1285"
+            },
+            "end_date": {
+                "year": "1314"
+            },
+            "text": {
+                "headline": "",
+                "text": "Règne de Philippe le Bel"
+            },
+            "background": {
+                "color": "#737373"
+            }
+        },
+        {
+            "start_date": {
+                "year": "1296"
+            },
+            "text": {
+                "headline": "Nouvel architecte",
+                "text": "Pierre de Chelles nouvel architecte de Notre-Dame"
+            },
+            "background": {
+                "color": "#737373"
+            }
+        },
+        {
+            "start_date": {
+                "year": "1239"
+            },
+            "end_date": {
+                "year": "1241"
+            },
+            "text": {
+                "headline": "1239 et 1241",
+                "text": "Achat par le roi de France à Baudoin, empereur de Byzance, des reliques de la Passion du Christ, dont la Couronne d'épines"
+            },
+            "background": {
+                "color": "#737373"
+            }
+        },
+        {
+            "start_date": {
+                "year": "1302"
+            },
+            "text": {
+                "headline": "",
+                "text": "Première grande assemblée du royaume pour défendre la politique royale, interprétée comme les premiers États généraux, tenue à Notre-Dame"
+            },
+            "background": {
+                "color": "#737373"
+            }
+        },
+        {
+            "start_date": {
+                "year": "1304"
+            },
+            "text": {
+                "headline": "",
+                "text": "Inhumation de l'évêque Simon de Bucy dans la chapelle d'axe qu'il avait fondée"
+            },
+            "background": {
+                "color": "#737373"
+            }
+        },
+        {
+            "start_date": {
+                "year": "1305"
+            },
+            "end_date": {
+                "year": "1378"
+            },
+            "text": {
+                "headline": "",
+                "text": "La papauté quitte Rome pour s'installer bientôt durablement à Avignon"
+            },
+            "background": {
+                "color": "#737373"
+            }
+        },
+        {
+            "start_date": {
+                "year": "1314"
+            },
+            "text": {
+                "headline": "",
+                "text": "Condamnation à mort de Jacques de Molay, grand maître, et d'autres dignitaires du Temple devant Notre-Dame"
+            },
+            "background": {
+                "color": "#737373"
+            }
+        },
+        {
+            "start_date": {
+                "year": "1318"
+            },
+            "text": {
+                "headline": "",
+                "text": "L'architecte Jean Ravy succède à Pierre de Chelles"
+            },
+            "background": {
+                "color": "#737373"
+            }
+        },
+        {
+            "start_date": {
+                "year": "1330"
+            },
+            "end_date": {
+                "year": "1339"
+            },
+            "text": {
+                "headline": "Années 1330",
+                "text": "Nouveau retable en argent doré sculpté par l'orfèvre Jean de Montpellier installé sur l'autel majeur"
+            },
+            "background": {
+                "color": "#737373"
+            }
+        },
+        {
+            "start_date": {
+                "year": "1337"
+            },
+            "end_date": {
+                "year": "1453"
+            },
+            "text": {
+                "headline": "Guerre de Cent Ans",
+                "text": "Guerre de Cent Ans"
+            },
+            "background": {
+                "color": "#737373"
+            }
+        },
+        {
+            "start_date": {
+                "year": "1344"
+            },
+            "text": {
+                "headline": "",
+                "text": "Jean le Bouteiller, neveu de Jean Ravy, lui succède comme architecte de la cathédrale"
+            },
+            "background": {
+                "color": "#737373"
+            }
+        },
+        {
+            "start_date": {
+                "year": "1351"
+            },
+            "text": {
+                "headline": "",
+                "text": "Achèvement de la clôture de choeur commencée à l'extrême fin du XIIIe siècle"
+            },
+            "background": {
+                "color": "#737373"
+            }
+        },
+        {
+            "start_date": {
+                "year": "1363"
+            },
+            "end_date": {
+                "year": "1404"
+            },
+            "text": {
+                "headline": "",
+                "text": "L'architecte Raymond du Temple, entre autres travaux, remplace les toitures en tuiles sur charpente des chapelles, bas-côtés et tribunes du choeur par des couvertures en terrasses constituées de dalles de pierre"
+            },
+            "background": {
+                "color": "#737373"
+            }
+        },
+        {
+            "start_date": {
+                "year": "1364"
+            },
+            "end_date": {
+                "year": "1380"
+            },
+            "text": {
+                "headline": "",
+                "text": "Règne de Charles V"
+            },
+            "background": {
+                "color": "#737373"
+            }
+        },
+        {
+            "start_date": {
+                "year": "1400"
+            },
+            "end_date": {
+                "year": "1425"
+            },
+            "text": {
+                "headline": "Début du XV<sup>e</sup> siècle",
+                "text": "Installation d'un grand orgue au revers de la façade"
+            },
+            "background": {
+                "color": "#737373"
+            }
+        },
+        {
+            "start_date": {
+                "year": "1413"
+            },
+            "text": {
+                "headline": "",
+                "text": "Érection à l'entrée de la nef d'une statue colossale de saint Christophe, offerte par Antoine des Essarts, grand chambellan de Charles VI"
+            },
+            "background": {
+                "color": "#737373"
+            }
+        },
+        {
+            "start_date": {
+                "year": "1431"
+            },
+            "text": {
+                "headline": "",
+                "text": "Sacre d'Henri VI d'Angleterre dans la cathédrale"
+            },
+            "background": {
+                "color": "#737373"
+            }
+        },
+        {
+            "start_date": {
+                "year": "1500"
+            },
+            "end_date": {
+                "year": "1525"
+            },
+            "text": {
+                "headline": "Début du XVI<sup>e</sup> siècle",
+                "text": "Travaux à la croisée du transept"
+            },
+            "background": {
+                "color": "#737373"
+            }
+        },
+        {
+            "start_date": {
+                "year": "1572",
+                "month": "08",
+                "day": "18"
+            },
+            "text": {
+                "headline": "",
+                "text": "Mariage d'Henri IV et de Marguerie de Valois, que l'on appellera les \"Noces vermeilles\". Henri IV, protestant, ne peut entrer dans l'église Notre-Dame pour participer à la messe de mariage et il reçoit la bénédiction sur le parvis"
+            },
+            "background": {
+                "color": "#737373"
+            }
+        },
+        {
+            "start_date": {
+                "year": "1572",
+                "month": "08",
+                "day": "24"
+            },
+            "text": {
+                "headline": "",
+                "text": "Massacre de la Saint-Bartélemy"
+            },
+            "background": {
+                "color": "#737373"
+            }
+        },
+        {
+            "start_date": {
+                "year": "1620"
+            },
+            "text": {
+                "headline": "",
+                "text": "Nouvel autel de la Vierge près du pilier sud-est de la croisée du transept, avec le soutien financier d'Anne d'Autriche"
+            },
+            "background": {
+                "color": "#737373"
+            }
+        },
+        {
+            "start_date": {
+                "year": "1622"
+            },
+            "text": {
+                "headline": "",
+                "text": "Érection de Paris en siège archiépiscopal: dès lors le diocèse de Paris n'est plus soumis à l'archevêque de Sens"
+            },
+            "background": {
+                "color": "#737373"
+            }
+        },
+        {
+            "start_date": {
+                "year": "1630"
+            },
+            "end_date": {
+                "year": "1708"
+            },
+            "text": {
+                "headline": "",
+                "text": "Les Mays de Notre-Dame, grands tableaux offerts chaque année à la cathédrale au mois de mai, mois de la Vierge, par la confrérie des orfèvres, viennent enrichir le décor intérieur de la cathédrale"
+            },
+            "background": {
+                "color": "#737373"
+            }
+        },
+        {
+            "start_date": {
+                "year": "1638"
+            },
+            "text": {
+                "headline": "",
+                "text": "À la suite d'une série d'actes de dévotion depuis 1632, Louis XIII place le royaume et sa couronne sous la protection de la Vierge dans l'espoir d'avoir un héritier mâle, et sera exaucé quelques mois plus tard avec la naissance du futur roi Louis XIV (1638-1715)"
+            },
+            "background": {
+                "color": "#737373"
+            }
+        },
+        {
+            "start_date": {
+                "year": "1643"
+            },
+            "end_date": {
+                "year": "1715"
+            },
+            "text": {
+                "headline": "Louis XIV",
+                "text": "Règne de Louis XIV"
+            },
+            "background": {
+                "color": "#737373"
+            }
+        },
+        {
+            "start_date": {
+                "year": "1660"
+            },
+            "text": {
+                "headline": "",
+                "text": "Mariage de Louis XIV avec l'infante d'Espagne Marie-Thérèse"
+            },
+            "background": {
+                "color": "#737373"
+            }
+        },
+        {
+            "start_date": {
+                "year": "1699"
+            },
+            "end_date": {
+                "year": "1720"
+            },
+            "text": {
+                "headline": "Travaux de réfection",
+                "text": "Réfection complète du choeur par Robert de Cotte et mise en place d'un nouvel autel au fond de l'abside avec le groupe sculpté de la <i>Pietà</i> entre les statues agenouillées des rois Louis XIII et Louis XIV : le voeu de Louis XIII (scultpures de Nicolas Coustou, Guillaume Coustou et Anoine Coysevox)"
+            },
+            "background": {
+                "color": "#737373"
+            }
+        },
+        {
+            "start_date": {
+                "year": "1725"
+            },
+            "end_date": {
+                "year": "1727"
+            },
+            "text": {
+                "headline": "Restaurations",
+                "text": "Restaurations par Germain Boffrand (rose du bras sud, voûte de la croisée du transept"
+            },
+            "background": {
+                "color": "#737373"
+            }
+        },
+        {
+            "start_date": {
+                "year": "1750"
+            },
+            "text": {
+                "headline": "",
+                "text": "Construction d'une nouvelle sacristie par Jacques-Germain Soufflot, futur architecte de l'actuel Panthéon"
+            },
+            "background": {
+                "color": "#737373"
+            }
+        },
+        {
+            "start_date": {
+                "year": "1771"
+            },
+            "text": {
+                "headline": "",
+                "text": "Mutilation du portail central dont le trumeau est supprimé pour laisser passer le dais des processions"
+            },
+            "background": {
+                "color": "#737373"
+            }
+        },
+        {
+            "start_date": {
+                "year": "1783"
+            },
+            "text": {
+                "headline": "",
+                "text": "Orgue de François-Henri Clicquot"
+            },
+            "background": {
+                "color": "#737373"
+            }
+        },
+        {
+            "start_date": {
+                "year": "1789",
+                "month": "07",
+                "day": "14"
+            },
+            "text": {
+                "headline": "",
+                "text": "Prise de la Bastille"
+            },
+            "background": {
+                "color": "#737373"
+            }
+        },
+        {
+            "start_date": {
+                "year": "1790"
+            },
+            "end_date": {
+                "year": "1799"
+            },
+            "text": {
+                "headline": "Années 1790",
+                "text": "Démontage de la flèche de la croisée, en mauvais état, qui menaçait de s'effondrer"
+            },
+            "background": {
+                "color": "#737373"
+            }
+        },
+        {
+            "start_date": {
+                "year": "1791"
+            },
+            "text": {
+                "headline": "",
+                "text": "Fermeture de la cathédrale, sécularisation des biens du clergé : la cathédrale devient temple de l'Être suprême"
+            },
+            "background": {
+                "color": "#737373"
+            }
+        },
+        {
+            "start_date": {
+                "year": "1792",
+                "month": "09",
+                "day": "22"
+            },
+            "text": {
+                "headline": "",
+                "text": "Proclamation de la République"
+            },
+            "background": {
+                "color": "#737373"
+            }
+        },
+        {
+            "start_date": {
+                "year": "1793"
+            },
+            "text": {
+                "headline": "",
+                "text": "Mutilation de la statuaire des portails et de la galerie des rois par l'entreprise Varin; la plupart des cloches sont fondues, de même que les objets d'orfèvrerie du trésor"
+            },
+            "background": {
+                "color": "#737373"
+            }
+        },
+        {
+            "start_date": {
+                "year": "1802"
+            },
+            "text": {
+                "headline": "",
+                "text": "Concordat"
+            },
+            "background": {
+                "color": "#737373"
+            }
+        },
+        {
+            "start_date": {
+                "year": "1804",
+                "month": "09",
+                "day": "02"
+            },
+            "text": {
+                "headline": "",
+                "text": "Sacre de Napoléon"
+            },
+            "background": {
+                "color": "#737373"
+            }
+        },
+        {
+            "start_date": {
+                "year": "1804"
+            },
+            "end_date": {
+                "year": "1815"
+            },
+            "text": {
+                "headline": "",
+                "text": "Premier Empire"
+            },
+            "background": {
+                "color": "#737373"
+            }
+        },
+        {
+            "start_date": {
+                "year": "1806"
+            },
+            "text": {
+                "headline": "",
+                "text": "La Couronne d'épines est déposée à Notre-Dame"
+            },
+            "background": {
+                "color": "#737373"
+            }
+        },
+        {
+            "start_date": {
+                "year": "1815"
+            },
+            "end_date": {
+                "year": "1830"
+            },
+            "text": {
+                "headline": "Restauration",
+                "text": "Restauration, règnes de Louis XVIII (1815-1824) puis Charles X (1824-1830)"
+            },
+            "background": {
+                "color": "#737373"
+            }
+        },
+        {
+            "start_date": {
+                "year": "1821"
+            },
+            "text": {
+                "headline": "",
+                "text": "Baptême du duc de Bordeaux. Installation de la Vierge dite de Saint-Aignan au trumeau du portail nord de la façade occidentale (transférée ultérieurement contre le pilier sud-est de la croisée)"
+            },
+            "background": {
+                "color": "#737373"
+            }
+        },
+        {
+            "start_date": {
+                "year": "1830"
+            },
+            "text": {
+                "headline": "",
+                "text": "Révolution de Juillet et instauration d'une monarchie constitutionnelle avec Louis-Philippe (1830-1848)"
+            },
+            "background": {
+                "color": "#737373"
+            }
+        },
+        {
+            "start_date": {
+                "year": "1831"
+            },
+            "text": {
+                "headline": "",
+                "text": "Sac de l'évêché; parution de <i>Notre-Dame de Paris, 1482</i>, roman de Victor Hugo"
+            },
+            "background": {
+                "color": "#737373"
+            }
+        },
+        {
+            "start_date": {
+                "year": "1837"
+            },
+            "text": {
+                "headline": "",
+                "text": "L'inspection des monuments historiques, créée en 1830 par Guizot, est complétée par une Commission nationale des monuments historiques"
+            },
+            "background": {
+                "color": "#737373"
+            }
+        },
+        {
+            "start_date": {
+                "year": "1843"
+            },
+            "text": {
+                "headline": "",
+                "text": "Lancement du concours pour la restauration de Notre-Dame; Jean-Baptiste Lassus et Eugène-Emmanuel Viollet-le-Duc sont lauréats"
+            },
+            "background": {
+                "color": "#737373"
+            }
+        },
+        {
+            "start_date": {
+                "year": "1852"
+            },
+            "end_date": {
+                "year": "1870"
+            },
+            "text": {
+                "headline": "",
+                "text": "Second Empire"
+            },
+            "background": {
+                "color": "#737373"
+            }
+        },
+        {
+            "start_date": {
+                "year": "1857"
+            },
+            "text": {
+                "headline": "",
+                "text": "Mort de Lassus, Viollet-le-Duc reste seul architecte"
+            },
+            "background": {
+                "color": "#737373"
+            }
+        },
+        {
+            "start_date": {
+                "year": "1859"
+            },
+            "text": {
+                "headline": "",
+                "text": "Construction de la flèche suivant un nouveau projet conçu uniquement par Viollet-le-Duc après le décès de Lassus, aux dimensions augmentées de 13m, pour culminer à 96m"
+            },
+            "background": {
+                "color": "#737373"
+            }
+        },
+        {
+            "start_date": {
+                "year": "1862"
+            },
+            "text": {
+                "headline": "",
+                "text": "Classement de la cathédrale au titre des monuments historiques"
+            },
+            "background": {
+                "color": "#737373"
+            }
+        },
+        {
+            "start_date": {
+                "year": "1864"
+            },
+            "text": {
+                "headline": "",
+                "text": "Achèvement de la grande restauration"
+            },
+            "background": {
+                "color": "#737373"
+            }
+        },
+        {
+            "start_date": {
+                "year": "1867"
+            },
+            "end_date": {
+                "year": "1868"
+            },
+            "text": {
+                "headline": "",
+                "text": "Orgues d'Aristide Cavaillé-Coll"
+            },
+            "background": {
+                "color": "#737373"
+            }
+        },
+        {
+            "start_date": {
+                "year": "1944"
+            },
+            "text": {
+                "headline": "",
+                "text": "Libération de Paris"
+            },
+            "background": {
+                "color": "#737373"
+            }
+        },
+        {
+            "start_date": {
+                "year": "1944",
+                "month": "08",
+                "day": "26"
+            },
+            "text": {
+                "headline": "",
+                "text": "Magnificat célébré dans la cathédrale pour la Libération de Paris"
+            },
+            "background": {
+                "color": "#737373"
+            }
+        },
+        {
+            "start_date": {
+                "year": "1945"
+            },
+            "text": {
+                "headline": "",
+                "text": "Fin de la Seconde Guerre mondiale"
+            },
+            "background": {
+                "color": "#737373"
+            }
+        },
+        {
+            "start_date": {
+                "year": "1960"
+            },
+            "end_date": {
+                "year": "1969"
+            },
+            "text": {
+                "headline": "Années soixante",
+                "text": "Décapage des chapelles de la nef; nettoyage de la façade occidentale"
+            },
+            "background": {
+                "color": "#737373"
+            }
+        },
+        {
+            "start_date": {
+                "year": "1965"
+            },
+            "text": {
+                "headline": "",
+                "text": "Fin du concile Vatican II"
+            },
+            "background": {
+                "color": "#737373"
+            }
+        },
+        {
+            "start_date": {
+                "year": "1963"
+            },
+            "text": {
+                "headline": "",
+                "text": "Exposition et colloque pour le 800<sup>e</sup> anniversaire de la cathédrale"
+            },
+            "background": {
+                "color": "#737373"
+            }
+        },
+        {
+            "start_date": {
+                "year": "1964"
+            },
+            "text": {
+                "headline": "",
+                "text": "Charte de Venise, adoptée par l'Icomos en 1965"
+            },
+            "background": {
+                "color": "#737373"
+            }
+        },
+        {
+            "start_date": {
+                "year": "1977"
+            },
+            "text": {
+                "headline": "",
+                "text": "Découverte d'un cimetière de sculptures enfouies rue de la Chaussée-d'Antin, parmi lesquelles 21 têtes couronnées provenant de la galerie des rois, abattus en 1793 (dépôt au musée de Cluny)"
+            },
+            "background": {
+                "color": "#737373"
+            }
+        },
+        {
+            "start_date": {
+                "year": "1989"
+            },
+            "text": {
+                "headline": "",
+                "text": "Nouveau maître-autel, oeuvre de Jean et Sébastien Touret, mis en place à la coirsée du transept"
+            },
+            "background": {
+                "color": "#737373"
+            }
+        },
+        {
+            "start_date": {
+                "year": "1994"
+            },
+            "text": {
+                "headline": "",
+                "text": "Une grande croix et une Gloire sculptées par Marc Couturier prennent place derrière la <i>Pietà</i> de Nicolas Coustou"
+            },
+            "background": {
+                "color": "#737373"
+            }
+        },
+        {
+            "start_date": {
+                "year": "2004"
+            },
+            "text": {
+                "headline": "",
+                "text": "Réaménagement liturgique par Jean-Marie Duthilleul"
+            },
+            "background": {
+                "color": "#737373"
+            }
+        },
+        {
+            "start_date": {
+                "year": "2012"
+            },
+            "end_date": {
+                "year": "2013"
+            },
+            "text": {
+                "headline": "",
+                "text": "Jubilé organisé pour le 850<sup>e</sup> anniversaire de la mise en chantier de la cathédrale gothique"
+            },
+            "background": {
+                "color": "#737373"
+            }
+        },
+        {
+            "start_date": {
+                "year": "2013"
+            },
+            "text": {
+                "headline": "",
+                "text": "Installation d'un nouveau carillon dans la tour nord"
+            },
+            "background": {
+                "color": "#737373"
+            }
+        },
+        {
+            "start_date": {
+                "year": "2019",
+                "month": "04",
+                "day": "15"
+            },
+            "text": {
+                "headline": "",
+                "text": "Incendie"
+            },
+            "background": {
+                "color": "#737373"
+            }
+        }
+    ]
+}
